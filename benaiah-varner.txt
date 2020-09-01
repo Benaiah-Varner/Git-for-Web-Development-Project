@@ -130,3 +130,8 @@ div {
     11. push all commits to the remote repo by using git push -u origin branch-name command
     12. Now that the changes are on git hub you can submit a pull request
     13. Make sure it is your forked repo not the original.
+    14. add yout TL to the reviewers and submit the pull request.
+
+
+
+https://github.com/Benaiah-Varner/Git-for-Web-Development-Project
